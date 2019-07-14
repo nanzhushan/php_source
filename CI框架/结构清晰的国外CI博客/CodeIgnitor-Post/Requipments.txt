@@ -1,0 +1,5 @@
+CodeIgnitor 3.x
+php>=5.4
+
+Search功能已经完善
+
